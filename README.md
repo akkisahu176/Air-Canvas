@@ -54,7 +54,7 @@ The core functionalities of the application include:
 
 ## Demo
 
-![Demo Image](Air Canvas Demo.png)  
+![Demo Image](https://github.com/akkisahu176/Air-Canvas/blob/773da0fffee14a230f1d2333b16891adbb59d0bc/Air%20Canvas%20Demo.png.png)  
 _A screenshot of the Air Canvas in action._
 
 ## Future Enhancements
